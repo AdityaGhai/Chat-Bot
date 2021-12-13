@@ -1,10 +1,16 @@
 # Chat-Bot
 Prerequisites - Cognitive Service resources in Azure and websites
+
 Prerequisites - Azure Bot and Emulator
+
 Prerequisites - Creating the Cognitive Services: QnA Maker
+
 Prerequisites - Syncing the code
+
 Run and test your bot
+
 Redeploy back to Azure
+
 Troubleshooting for the Azure Web Chat
 
 
